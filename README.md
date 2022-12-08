@@ -12,11 +12,13 @@ I'm a Associate degree in System analysis and development, QA in Trílogo.
   <img alt="TypeScript" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
+  <p>
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-green" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-orange" />
+</p>
 </p>
 <p>
   
@@ -44,10 +46,10 @@ I'm a Associate degree in System analysis and development, QA in Trílogo.
   </div>
  </div>
 <br><h2></h2><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=thivagar-manickam&count_private=true&theme=radical&show_icons=true" />
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreialuana&layout=compact"
-/>
+  
+  <div align="center">
+  <a href="https://github.com/andreialuana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreialuana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreialuana&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
