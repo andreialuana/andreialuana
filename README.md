@@ -50,7 +50,7 @@ I'm a Associate degree in System analysis and development, QA in Trílogo.
  </div>
 <br><h2></h2><br>
   
-  <div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreialuana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreialuana&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
 
