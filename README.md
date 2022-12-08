@@ -1,5 +1,8 @@
+</p>
+
 Hello 😌,
 I'm a Associate degree in System analysis and development, QA in Trílogo. 
+<p>
 </p>
 
 **Have worked with:**
