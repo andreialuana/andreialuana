@@ -44,13 +44,3 @@ I'm a Associate degree in System analysis and development, QA in Trílogo.
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
 
-<br><br>
-<div align="center">
- <div>
-   </p>
-  </div>
- </div>
-<br><h2></h2><br>
-
-
-
