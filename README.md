@@ -21,6 +21,8 @@ I'm a Associate degree in System analysis and development, QA in Trílogo.
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-green" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-orange" />
+  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-yellowgreen" />
+  <img alt="Appium" src="https://img.shields.io/badge/-Appium-blue" />
 </p>
 </p>
 <p>
